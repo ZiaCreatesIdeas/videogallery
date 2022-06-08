@@ -1,6 +1,7 @@
 <link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
 
 ![Visitor Count](https://profile-counter.glitch.me/{ziacreatesideas}/count.svg)
+[![Image of https://github.com/ZiaCreatesIdeas/my-views-counter](https://github.com/ZiaCreatesIdeas/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ZiaCreatesIdeas/my-views-counter)
 
 ## Welcome to GitHub Pages
 
