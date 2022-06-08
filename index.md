@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
+
 ![Visitor Count](https://profile-counter.glitch.me/{ziacreatesideas}/count.svg)
 
 ## Welcome to GitHub Pages
