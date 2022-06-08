@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{ziacreatesideas}/count.svg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/videogallery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
