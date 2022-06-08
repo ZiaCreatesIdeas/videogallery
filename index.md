@@ -1,15 +1,11 @@
-<!-- <link type="text/css" rel="stylesheet" href="videogallery/_sass/jekyll-theme-hacker.scss" /> -->
-<link type="text/css" rel="stylesheet" href="/assets/css/style.scss" />
-
 ![Visitor Count](https://profile-counter.glitch.me/{ziacreatesideas}/count.svg)
-[![Image of https://github.com/ZiaCreatesIdeas/my-views-counter](https://github.com/ZiaCreatesIdeas/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/ZiaCreatesIdeas/my-views-counter)
 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/videogallery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Markdown
+### Markdown css
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
