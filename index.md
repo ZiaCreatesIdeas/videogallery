@@ -4,6 +4,7 @@
 
 You can use the [editor on GitHub](https://github.com/ZiaCreatesIdeas/videogallery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+<link rel="stylesheet" href="assets/css/style.css" />
 
 ### Markdown css
 
