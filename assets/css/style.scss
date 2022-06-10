@@ -2,12 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-  background-color: lightblue;
+.main-content {
+  h3 {
+   color: #ff0000;
+ }
 }
 
-h6 {
-  color: navy;
-  margin-left: 20px;
-}
 
